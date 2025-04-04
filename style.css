@@ -1,0 +1,10 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Add all the CSS styles from the previous example here */
+/* [Paste the entire style section from the previous answer here] */
